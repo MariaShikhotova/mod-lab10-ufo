@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Windows.Forms.DataVisualization.Charting;
 
-namespace лаб_10
+namespace ufo
 {
     public partial class Form1 : Form
     {
