@@ -1,4 +1,4 @@
-﻿namespace лаб_10
+﻿namespace ufo
 {
     partial class Form1
     {
