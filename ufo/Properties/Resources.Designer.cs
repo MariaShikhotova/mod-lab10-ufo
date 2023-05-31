@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace лаб_10.Properties
+namespace ufo.Properties
 {
 
 
